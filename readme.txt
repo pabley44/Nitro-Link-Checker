@@ -8,13 +8,3 @@ Their Api
 4) Open Install.bat Or Do pip install -r requirements.txt In Terminal
 5) When The Installation Is Done Open start.bat To Start The Tool Or Type py main.py
 in your Terminal
-
-# What Happend If U broke the things Up :
-- You Will Get No Support + No New Updates
-
-# Proxies Formats :
-1) {username}:{password}@{hostname}:{port}
-2) {hostname}:{port}:{username}:{password}
-
-# Buy tokens here : https://digiproxy.cc/userPanel/generateProxy
-# Buy 1gb 
